@@ -5,8 +5,11 @@
     "yargs": "^17.5.1"
   },
   "name": "instainfo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "description": "A package to fetch information about an Instagram account",
+  "repository": "https://github.com/SpreeHertz/instainfo.git",
+  "author": "SpreeHertz <spreehertzofficial@gmail.com>"
 }
