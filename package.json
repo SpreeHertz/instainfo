@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "common-tags": "^1.8.2",
+    "node-fetch": "2.0.0",
+    "yargs": "^17.5.1"
+  },
+  "name": "instainfo",
+  "version": "1.0.4",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false
+}
