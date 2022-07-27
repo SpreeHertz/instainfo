@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "common-tags": "^1.8.2",
     "node-fetch": "2.0.0"
   },
   "name": "instainfo",
