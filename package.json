@@ -5,7 +5,7 @@
     "yargs": "^17.5.1"
   },
   "name": "instainfo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "license": "MIT",
   "private": false,
