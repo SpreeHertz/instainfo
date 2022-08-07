@@ -3,7 +3,7 @@
     "node-fetch": "2.0.0"
   },
   "name": "instainfo",
-  "version": "0.0.3",
+  "version": "1.0.8",
   "main": "index.js",
   "license": "MIT",
   "private": false,
