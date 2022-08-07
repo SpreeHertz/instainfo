@@ -2,6 +2,11 @@
 
 A package to fetch informaion about an Instagram account.
 
+
+```
+$ npm install instainfo
+```
+
 ## Example
 
 ```js
