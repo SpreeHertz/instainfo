@@ -3,11 +3,15 @@
     "node-fetch": "2.0.0"
   },
   "name": "instainfo",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "index.js",
   "license": "MIT",
   "private": false,
   "description": "A package to fetch information about an Instagram account",
   "repository": "https://github.com/SpreeHertz/instainfo.git",
-  "author": "SpreeHertz <spreehertzofficial@gmail.com>"
+  "author": "SpreeHertz <spreehertzofficial@gmail.com>",
+  "scripts": {
+    "dev": "nodemon .",
+    "test": "node ./tests/test.js"
+  }
 }

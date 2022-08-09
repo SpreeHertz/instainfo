@@ -1,5 +1,5 @@
-const findUser = require('./lib/findUser');
+const getUser = require('./lib/getUser');
 
 module.exports = {
-    findUser
+    getUser
 }
