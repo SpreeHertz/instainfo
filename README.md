@@ -11,9 +11,9 @@ $ npm install instainfo
 
 ```js
 const instainfo = require('instainfo');
+module.exports = instainfo;
 
-
-const user = new instainfo.findUser('spreehertz')
+const user = new instainfo.getUser('spreehertz')
 console.log(user.is_verified)
 ```
 
