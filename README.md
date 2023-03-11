@@ -28,3 +28,7 @@ console.log(user.is_verified)
 - `guardian_id` (string)
 - `profile_pic_url_hd` (string)
 - `pronouns` (array)
+- `bio_links` (array)
+- `full_name` (string)
+
+You can get more properties by going to https://www.instagram.com/USERNAME_HERE/?__a=1&__d=dis and pretty print the JSON data. This package just simplifies the process of fetching this data.
