@@ -31,4 +31,4 @@ console.log(user.is_verified)
 - `bio_links` (array)
 - `full_name` (string)
 
-You can get more properties by going to https://www.instagram.com/USERNAME_HERE/?__a=1&__d=dis and pretty print the JSON data. This package just simplifies the process of fetching this data.
+Some properties haven't been mentioned can be obtained by going on to https://www.instagram.com/USERNAME_HERE/?__a=1&__d=dis and pretty print the JSON data for easiness. This package just simplifies the process of fetching this data.
