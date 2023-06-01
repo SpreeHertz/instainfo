@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "node-fetch": "2.0.0"
+    "node-fetch": "2.6.11"
   },
   "name": "instainfo",
   "version": "1.0.10",
